@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1469438943 source:c:\users\cedwa\desktop\chess\main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_keyboard.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
